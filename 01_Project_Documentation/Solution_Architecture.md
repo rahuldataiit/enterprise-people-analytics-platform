@@ -201,7 +201,7 @@ erDiagram
     int Score
   }
 ```
-*(Renders natively on GitHub — no external image needed.)*
+
 
 ### 7.4 Key Design Decisions
 
