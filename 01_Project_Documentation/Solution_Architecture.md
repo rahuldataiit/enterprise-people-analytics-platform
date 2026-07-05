@@ -243,11 +243,4 @@ Scripts are numbered and run strictly in order — each script assumes every pri
 
 ---
 
-## 10. Next Steps
 
-1. Implement `01_CreateDatabase.sql` and `02_CreateSchemas.sql`
-2. Build Bronze DDL + load scripts (`03`–`04`)
-3. Build Silver DDL + transformation scripts (`05`–`06`), applying `Business_Rules.md`
-4. Build Gold DDL + load scripts (`07`–`08`), implementing the star schema in §7
-5. Build SQL views (`09`) mapped to each Power BI dashboard page
-6. Build validation script (`10`) to confirm row counts, key integrity, and KPI reconciliation against Silver
